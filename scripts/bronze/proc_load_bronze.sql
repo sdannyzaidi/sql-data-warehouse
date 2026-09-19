@@ -14,7 +14,7 @@ Parameters:
     return any values.
 
 Use Example:
-    CALL bronze.load_bronze();
+    CALL bronze.load_bronze(); 
 =======================================================================
 */
 
